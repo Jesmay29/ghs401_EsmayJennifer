@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Bob
+comment1.params=
+comment1.target=Bob()
+comment2.params=speed\ turnAmount
+comment2.target=Bob(int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=void\ act()
+numComments=5
